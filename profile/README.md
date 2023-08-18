@@ -13,5 +13,9 @@
   <a href="https://www.linkedin.com/company/pso-engenharia/" target="_blank" alt="linkedin">
     <img src="https://img.shields.io/badge/%40psoengenharia-blue?style=for-the-badge&logo=linkedin" alt="linkedin" />
   </a>
+  </a>
+    <a href="https://www.instagram.com/psoengenhariaeletrica/" target="_blank" alt="instagram">
+    <img src="https://img.shields.io/badge/%40psoengenhariaeletrica-white?style=for-the-badge&logo=instagram" alt="instagram" />
+  </a>
 </p>
 <p align="center">Desde 2011 projetando e construindo instalações elétricas em todo Brasil.</p>
